@@ -38,3 +38,6 @@
 
 暂无，可前往 [issues](https://github.com/FastChen/Emissive-Project/issues) 发布模组支持请求。
 
+### 图片
+![1](./img/img_1.png)
+
