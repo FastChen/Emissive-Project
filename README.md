@@ -6,6 +6,8 @@
   <a href="https://github.com/FastChen/Emissive-Project/issues"><img src="https://img.shields.io/github/issues/fastchen/Emissive-Project?label=Issues"/></a>
   <img src="https://img.shields.io/github/license/fastchen/Emissive-Project?label=License"/>
   <a href="https://github.com/FastChen/Emissive-Project/releases"><img src="https://img.shields.io/github/v/release/fastchen/Emissive-Project?label=Release"/></a>
+  <hr>
+  <p>简体中文 | <a href="./README-en.md">English</a></p>
 </div>
 
 ### # 材质简介
