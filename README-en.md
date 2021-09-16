@@ -34,3 +34,5 @@ this resourcepack is expansion emissive mods item. use Optifine Emissive,You nee
 
 nothing，you can [issues](https://github.com/FastChen/Emissive-Project/issues) need support mod list。
 
+### Picture
+![1](./img/img_1.png)
